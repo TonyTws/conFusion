@@ -20,7 +20,7 @@
   "homepage": "https://github.com/TonyTws/conFusion#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lite-server": "^2.5.3",
     "popper.js": "^1.14.3"
   }
